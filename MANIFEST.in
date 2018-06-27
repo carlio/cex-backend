@@ -1,0 +1,5 @@
+recursive-include landscape/*/templates *
+recursive-include landscape/*/static *
+recursive-include landscape/*/fixtures *
+recursive-include landscape/scrutiny/message_definitions *
+recursive-include requirements *
